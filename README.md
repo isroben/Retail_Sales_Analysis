@@ -1,7 +1,7 @@
 # Retail_Sales_Analysis
 
  Exploratory Data Analysis — Problems to Solve
-📈 1. Total Sales and Revenue Trends Over Time
+# 1. Total Sales and Revenue Trends Over Time
 Objective: Understand business performance over time.
 
 Problems:
