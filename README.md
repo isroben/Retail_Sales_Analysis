@@ -40,29 +40,4 @@ What is the average order value per country?
 
 Is there a correlation between country and product preferences?
 
-👤 4. RFM Analysis for Customer Segmentation
-Objective: Segment customers based on behavior to target better.
-
-Problems:
-
-Who are the most loyal and valuable customers (high RFM scores)?
-
-How many customers fall into the "champions", "at risk", or "lost" segments?
-
-Which segment brings the most revenue?
-
-Are there opportunities to re-engage inactive or lost customers?
-
-🔄 5. Cohort Analysis to Understand Repeat Purchases
-Objective: Analyze customer retention over time.
-
-Problems:
-
-What percentage of customers return in the months following their first purchase?
-
-How does customer retention change month over month?
-
-Which acquisition months created the most loyal customers?
-
-Do newer cohorts have better or worse retention than older ones?
 
