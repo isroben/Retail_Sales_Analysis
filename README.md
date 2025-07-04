@@ -14,7 +14,7 @@ Which months or quarters had the highest and lowest revenue?
 
 Is the average order value increasing or decreasing over time?
 
-🏆 2. Top-Selling Products by Revenue and Quantity
+# 2. Top-Selling Products by Revenue and Quantity
 Objective: Identify key products driving revenue and volume.
 
 Problems:
@@ -27,7 +27,7 @@ Are there products with high volume but low revenue (or vice versa)?
 
 What are the top 5 products in each category by sales?
 
-🌍 3. Revenue Breakdown by Country/Region
+# 3. Revenue Breakdown by Country/Region
 Objective: Understand geographic performance.
 
 Problems:
